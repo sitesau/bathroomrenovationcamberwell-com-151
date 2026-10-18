@@ -1,0 +1,22 @@
+{
+  "wheel_id": 400,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcamberwell-com-151",
+  "project": "bathroom-renovation-camberwell-faq-193f5ad34097e5b650298da49ad3",
+  "parent_t1_ref": "bathroomrenovationcamberwell.com-005",
+  "node_role": "buffer",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovation camberwell faq",
+  "intended_url": "https://sites-e470-2.web.app/bathroom-renovation-camberwell-faq-193f5ad34097e5b650298da49ad3/",
+  "tier": "T2",
+  "writeback_nonce": "4ef29b150979a7da",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/bathroom-renovation-camberwell/",
+      "anchor": "Bathroom Renovation Camberwell: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
